@@ -22,6 +22,7 @@ You will need to have free accounts on the following platforms:
 - [Gemini](https://gemini.google.com/)
 - [Lovable](https://lovable.dev/)
 - [Github](https://github.com/)
+- [Gmail](https://mail.google.com/)
 
 ---
 
