@@ -12,7 +12,7 @@ The hero starts with my photo on the left side in a 64 x 64 px circle: https://f
 
 To the right of the circle, add this text in 14px regular Jetbrains mono and 340px max width: “Hi, I'm Apoorv, designing products, brands, and stories end to end, full stack creative.” 
 
-Add a hero image below, 864 x 242 aspect ratio, 64px padding top and bottom: https://framerusercontent.com/images/sUQN9ZSGjn0hS…nRU.png?scale-down-to=1024&width=6336&height=1584
+Add a hero image below, 864 x 242 aspect ratio, 64px padding top and bottom: https://framerusercontent.com/images/sUQN9ZSGjn0hS9Ri7pMnpG0nRU.png
 
 Below the hero image add the title in Inter 80px: “Product and Brand Designer”.
 
