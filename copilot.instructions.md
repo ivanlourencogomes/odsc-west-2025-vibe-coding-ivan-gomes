@@ -5,7 +5,7 @@ React + Vite fitness application with Firebase hosting integration. Early-stage 
 
 ## Architecture Principles
 
-### Component Organization (from `copilot-instructions/architecture-preferences.js`)
+### Component Organization 
 - **Strict separation of concerns**: Components handle only presentation and UI structure
 - **No business logic in components**: Extract all logic into utility functions
 - **Action-based organization**: Group utilities by action type in dedicated files:
@@ -31,7 +31,7 @@ function UserProfile() {
 }
 ```
 
-### UI Design System (from `copilot-instructions/ui-preferences.js`)
+### UI Design System 
 - **Component library**: Use shadcn basic UI components for all UI elements
 - **Typography**: Poppins for headings, Inter for body text
 - **Fitness-themed color palette**:
