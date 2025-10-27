@@ -1,19 +1,4 @@
 
-# 🔗 Links
-
-## 1. Prompt for Project 1 - Protfolio Page
-
-- [Click to view the prompt](https://github.com/ivanlourencogomes/odsc-west-2025-vibe-coding-ivan-gomes/blob/main/portfolio_prompt.md)
-
-## 2. PRD for Project 2 - CMS Portfolio Page
-
-- [Click to view the PRD](https://docs.google.com/document/d/1bZVGPRUDthIqZNf_4kQSd7dV_hLPLa1d5nK30Y8zRrI/edit?usp=sharing)
-
-## 3. Github Copilot Instructions for Project 3 - Fitness App
-
-- [Click here to view the instructions file](https://github.com/ivanlourencogomes/odsc-west-2025-vibe-coding-ivan-gomes/blob/main/copilot.instructions.md)
-
-
 # ✅ Requirements to Attend the Vibe Coding Talk
 
 Welcome! To get the most out of this talk and actively follow along with demos and hands-on projects, please make sure to complete the following setup **before the session**.
@@ -53,6 +38,22 @@ We'll be using [Visual Studio Code](https://code.visualstudio.com/) as our main 
 
 ---
 
-If you complete all of the above, you'll be fully set up to Vibe Code like a pro 🤖⚡️
+# 🔗 Links
+
+## 1. Prompt for Project 1 - Protfolio Page
+
+- [Click to view the prompt](https://github.com/ivanlourencogomes/odsc-west-2025-vibe-coding-ivan-gomes/blob/main/portfolio_prompt.md)
+
+## 2. PRD for Project 2 - CMS Portfolio Page
+
+- [Click to view the PRD](https://docs.google.com/document/d/1bZVGPRUDthIqZNf_4kQSd7dV_hLPLa1d5nK30Y8zRrI/edit?usp=sharing)
+
+## 3. Github Copilot Instructions for Project 3 - Fitness App
+
+- [Click here to view the instructions file](https://github.com/ivanlourencogomes/odsc-west-2025-vibe-coding-ivan-gomes/blob/main/copilot.instructions.md)
+
+---
+
+If you complete all of the above, you'll be fully set up to Vibe Code like a pro 🤖⚡
 
 See you soon!
