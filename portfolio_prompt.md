@@ -1,4 +1,4 @@
-Build a portfolio page in HTML, CSS and JavaScript to showcase my work and skills.
+Build a portfolio page in one single HTML file, with internal CSS and JavaScript to showcase my work and skills.
 
 I want a dark theme, with black background and white text and some grey elements. 
 
